@@ -5353,7 +5353,6 @@
     <string name="com.stratumauth.app" translatable="false">GPL-3.0-or-later</string>
     <string name="de.westnordost.streetmeasure" translatable="false">Apache-2.0</string>
     <string name="lcukerd.com.stufflist" translatable="false">MIT</string>
-    <string name="eu.laslo_hauschild.your_schedule" translatable="false">GPL-3.0-only</string>
     <string name="com.jamal2367.styx" translatable="false">MPL-2.0</string>
     <string name="acab.naiveha.subrosa" translatable="false">Apache-2.0</string>
     <string name="projekt.substratum" translatable="false">GPL-3.0-only</string>
@@ -5424,6 +5423,7 @@
     <string name="com.asyjaiz.A12blur" translatable="false">Apache-2.0</string>
     <string name="com.ap.transmission.btc" translatable="false">GPL-2.0-only</string>
     <string name="com.sleroy.transmissionic" translatable="false">MIT</string>
+    <string name="one.wafler.transportia" translatable="false">GPL-3.0-only</string>
     <string name="de.grobox.liberario" translatable="false">GPL-3.0-or-later</string>
     <string name="nodomain.neonbranch.treasurehunt" translatable="false">Apache-2.0</string>
     <string name="io.treehouses.remote" translatable="false">AGPL-3.0-only</string>
@@ -5445,6 +5445,7 @@
     <string name="de.buttercookie.units" translatable="false">GPL-3.0-or-later</string>
     <string name="com.sweak.unlockmaster" translatable="false">GPL-3.0-only</string>
     <string name="unofficial.tandoor.recipes" translatable="false">GPL-3.0-only</string>
+    <string name="eu.laslo_hauschild.your_schedule" translatable="false">GPL-3.0-only</string>
     <string name="org.unifiedpush.example" translatable="false">Apache-2.0</string>
     <string name="com.samueljhuf.upnp_explorer" translatable="false">MIT</string>
     <string name="acab.naiveha.upnpkino" translatable="false">Apache-2.0</string>
@@ -5544,6 +5545,7 @@
     <string name="rikka.safetynetchecker" translatable="false">MIT</string>
     <string name="yetzio.yetcalc" translatable="false">BSD-3-Clause</string>
     <string name="app.suhasdissa.karaoke" translatable="false">GPL-3.0-only</string>
+    <string name="com.pg_axis.ytcnv" translatable="false">GPL-3.0-only</string>
     <string name="fr.odrevet.youtube_dl_kivy" translatable="false">GPL-3.0-only</string>
     <string name="com.deniscerri.ytdl" translatable="false">GPL-3.0-only</string>
     <string name="com.ziadoua.zcalc" translatable="false">GPL-3.0-only</string>
